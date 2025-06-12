@@ -74,6 +74,11 @@ We built a full-stack platform with the following capabilities:
 
 ---
 
+## 🤗 using hugging face 
+In our project, we used Hugging Face, a leading platform for machine learning and artificial intelligence. It provides powerful tools and libraries, such as the transformers library, which allowed us to easily implement and integrate advanced natural language processing features into our code. Hugging Face helped simplify development and improve the overall effectiveness of our solution.
+
+---
+
 ## 🌍 Tech Stack
 
 - **Python, TensorFlow/Keras, OpenCV**
