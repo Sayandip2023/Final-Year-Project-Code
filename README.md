@@ -1,6 +1,9 @@
 # 🚗 Driver Distraction Detection System
 
 A comprehensive deep learning-based system to detect and analyze driver distraction through image, video, and document processing, powered by both custom models and LLM integration.
+Recognize drowsiness before it happens and to have the capacity to caution the driver in time.
+
+Process of locating the eyes of the driver, and to decide whether the eyes of the driver are open or close.
 
 ## 🧠 Project Overview
 
